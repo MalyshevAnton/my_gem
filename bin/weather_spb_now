@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'weather_spb_now'
+puts WeatherSpbNow::weather_now
